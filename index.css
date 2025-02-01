@@ -1,0 +1,31 @@
+body {
+    color: gray;
+    background-color:pink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    
+}
+ul {
+    display:flex;
+    justify-content: center;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+
+}
+a {
+    color: gray
+}
+
+
+
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 5px solid gray
+}
+.center {
+    text-align: center;
+}
