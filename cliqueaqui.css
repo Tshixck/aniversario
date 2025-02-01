@@ -1,0 +1,26 @@
+body {
+    color: black;
+    background-color: palevioletred;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+ul {
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    align-items:flex-end;
+    padding: 16px;
+}
+
+img {
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    border: 5px solid pink;
+
+}
+
+.center {
+    text-align: center;
+}
